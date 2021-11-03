@@ -4516,7 +4516,7 @@
                 "id": "TTO"
             },
             "geometry": {
-                "type": "MultiPolygon",
+                "type": "Multipolygon",
                 "coordinates": [
                     [
                         [
@@ -5320,7 +5320,7 @@
                 "id": "TUN"
             },
             "geometry": {
-                "type": "MultiPolygon",
+                "type": "Multipolygon",
                 "coordinates": [
                     [
                         [
@@ -8152,7 +8152,7 @@
                 "id": "VCT"
             },
             "geometry": {
-                "type": "MultiPolygon",
+                "type": "Multipolygon",
                 "coordinates": [
                     [
                         [
