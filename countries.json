@@ -8,7 +8,7 @@
                 "id": "GUY"
             },
             "geometry": {
-                "type": "MultiPolygon",
+                "type": "Multipolygon",
                 "coordinates": [
                     [
                         [
